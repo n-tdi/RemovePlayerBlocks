@@ -1,0 +1,16 @@
+name: RemovePlayerBlocks
+version: '${project.version}'
+main: world.ntdi.removeplayerblocks.RemovePlayerBlocks
+api-version: 1.19
+prefix: RPB
+authors: [ Ntdi ]
+description: Remove blocks by player after x amount of time
+website: ntdi.world
+commands:
+  rpb:
+    description: The command used to control the RemovePlayerBlocks plugin
+    usage: /rpb
+    aliases:
+      - removeplayerblocks
+      - repeebee
+

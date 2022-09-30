@@ -1,0 +1,6 @@
+# number of minutes to remove blocks after
+remove-blocks-after: 5
+# ignore blocks placed from a player in creative
+ignore-blocks-from-creative: true
+# The perm to toggle the plugin
+toggle-perm: "rpb.toggle"
